@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/nimtabo/capat/static/js/main.e79be746.chunk.js",
+    "main.js.map": "/nimtabo/capat/static/js/main.e79be746.chunk.js.map",
+    "runtime-main.js": "/nimtabo/capat/static/js/runtime-main.8057bd15.js",
+    "runtime-main.js.map": "/nimtabo/capat/static/js/runtime-main.8057bd15.js.map",
+    "static/css/2.847a128f.chunk.css": "/nimtabo/capat/static/css/2.847a128f.chunk.css",
+    "static/js/2.7b10d2a4.chunk.js": "/nimtabo/capat/static/js/2.7b10d2a4.chunk.js",
+    "static/js/2.7b10d2a4.chunk.js.map": "/nimtabo/capat/static/js/2.7b10d2a4.chunk.js.map",
+    "index.html": "/nimtabo/capat/index.html",
+    "static/css/2.847a128f.chunk.css.map": "/nimtabo/capat/static/css/2.847a128f.chunk.css.map",
+    "static/js/2.7b10d2a4.chunk.js.LICENSE.txt": "/nimtabo/capat/static/js/2.7b10d2a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8057bd15.js",
+    "static/css/2.847a128f.chunk.css",
+    "static/js/2.7b10d2a4.chunk.js",
+    "static/js/main.e79be746.chunk.js"
+  ]
+}
